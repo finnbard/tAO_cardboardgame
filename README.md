@@ -22,7 +22,7 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 2. Work in Progress.
   
 ### Current Screenshot:
-to be added.
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot001.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
 
 #### TODO:  
 

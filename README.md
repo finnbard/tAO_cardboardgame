@@ -22,15 +22,15 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 2. Work in Progress.
   
 ### Current Screenshot:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot002.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot004_PUER.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
 
 #### TODO:  
 
 Phase 2.3: Create and add custom resource symbols:
 * ~~2.3.1: P symbol + watermark~~ =DONE!
 * ~~2.3.2: U symbol + watermark~~ =DONE!
-* 2.3.3: E symbol + watermark
-* 2.3.4: R symbol + watermark
+* ~~2.3.3: E symbol + watermark~~ =DONE!
+* ~~2.3.4: R symbol + watermark~~ =DONE!
 * 2.3.5: O symbol + watermark
 * 2.3.6: W symbol + watermark
 * 2.3.7: B symbol + watermark
@@ -43,4 +43,4 @@ Phase 2.3: Create and add custom resource symbols:
 
   
 ### Developer Notes:
-* nothing yet.
+* 2025-08-24: I replaced the K watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom E watermark.

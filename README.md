@@ -38,6 +38,7 @@ Phase 2.3: Create and add custom resource symbols:
 * 2.3.9: G symbol + watermark
 
 
+* Add "Finnbard, the Blue" as first hero card.
 * ...
 * TBD
 

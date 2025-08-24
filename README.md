@@ -2,6 +2,7 @@
 Composing the prototype of a unique card + board game hybrid. Full name to be revealed at a later stage. More details will follow.
 
 * Project type: Creating a "cardboard" game (Pet Project).
+* Project prio: Main Project (highest priority).
 
 ## Project goals:
 
@@ -22,7 +23,7 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 2. Work in Progress.
   
 ### Current Screenshot:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot006_PUEROW.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot007_PUEROW.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
 
 #### TODO:  
 
@@ -39,12 +40,18 @@ Phase 2.3: Create and add custom resource symbols:
 
 
 * Add "Finnbard, the Blue" as first hero card.
+* Add "PUEROW BAG" as first item card.
+* Add "Turgho" hero.
+* Add "Khego" hero.
+* Add "Artha" hero.
+* Add some basic units to test and see how stats and abbilities can work.
+* Think about how the game starts, develops and ends.
 * ...
 * TBD
 
   
 ### Developer Notes:
-* 2025-08-24 #3: I replaced the Orzhov watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom O watermark + Opacity 127.
+* 2025-08-24 #3: I replaced the Orzhov watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom O watermark + Opacity 102.
 * 2025-08-24 #2: I replaced the Orzhov2 watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom O watermark.
 * 2025-08-24 #1: I replaced the K watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom E watermark.
 * 2025-08-23: Magic Set Editor (MSE) https://magicseteditor.boards.net/

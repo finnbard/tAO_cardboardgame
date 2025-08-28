@@ -24,9 +24,9 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 2. Work in Progress.
   
 ### Current Screenshots:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot010_WargRider-SeaEagles.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot010_WargRider-SeaEagles.png?raw=true "Screenshot of Card Conjurer prototypes with tAO resource symbols")
 
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot009_PUEROWBAG.png?raw=true "Screenshot of Card Conjurer prototypes with tAO resource symbols")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot009_PUEROWBAG.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
 
 #### TODO:  
 

@@ -65,7 +65,6 @@ Phase 2.4: Create some cards with different card types. / Add images.
 ### Developer Notes:
 * 2025-08-30: paint.net https://www.getpaint.net/
 * 2025-08-28: Card Conjurer https://cardconjurer.com/
-
 * 2025-08-26 #2: I replaced the Azorius watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom A watermark + Opacity 102.
 * 2025-08-26 #1: I replaced the Azorius2 watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom A watermark.
 * 2025-08-24 #3: I replaced the Orzhov watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom O watermark + Opacity 102.

@@ -6,25 +6,32 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 
 ## Project goals:
 
-#### * Phase 1: Creating the basic concepts and game mechanics.
+#### * ~~Phase 1: Creating the basic concepts and game mechanics.~~ =DONE!
 
-* Phase 1.1: Creating the first draft of a unique resource/color&faction system. =DONE!
-* Phase 1.2: Collect plausible card types, super- and subtypes on paper. =DONE!
-* Phase 1.3: Thinking about layout, size and dimension of board game material. =DONE!
-* Phase 1.4: Find first draft of practical placement rules for cards + board material. =DONE!
+* ~~Phase 1.1: Creating the first draft of a unique resource/color&faction system.~~ =DONE!
+* ~~Phase 1.2: Collect plausible card types, super- and subtypes on paper.~~ =DONE!
+* ~~Phase 1.3: Thinking about layout, size and dimension of board game material.~~ =DONE!
+* ~~Phase 1.4: Find first draft of practical placement rules for cards + board material.~~ =DONE!
 
-#### * Phase 2: Designing the first pack of card prototypes.
+#### * ~~Phase 2: Designing the first pack of card prototypes.~~ =DONE!
 
-* Phase 2.1: Decide on a tool to create prototypes. I will use the MSE (MagicSetEditor) for now (link in dev note 2025-08-23 at bottom of this Readme). =DONE! <-EDIT 2025-08-28: I am using Card Conjurer now.
-* Phase 2.2: Create a first draft of the Start Territory cards for each color. =DONE!
-* Phase 2.3: Create and add custom resource symbols. =DONE!
-* Phase 2.4: Create some cards with different card types. / Add images. I used Card Conjurer (https://cardconjurer.com/) for the first Unit card prototypes.
+* ~~Phase 2.1: Decide on a tool to create prototypes. I will use the MSE (MagicSetEditor) for now (link in dev note 2025-08-23 at bottom of this Readme).~~ =DONE! <-EDIT 2025-08-28: Using Card Conjurer for high level prototypes.
+* ~~Phase 2.2: Create a first draft of the Start Territory cards for each color.~~ =DONE!
+* ~~Phase 2.3: Create and add custom resource symbols.~~ =DONE!
+* ~~Phase 2.4: Create some cards with different card types. / Add images. I used Card Conjurer (https://cardconjurer.com/) for the first high level Unit card prototypes.~~ =DONE!
+
+#### * Phase 3: Prototyping, testing and development phase
+
+* Phase 3.1: Switching tools to paint.net (https://www.getpaint.net/) + MS Word for blank card prototypes (units & territories), printing them and using pen and paper to fill.
+* Phase 3.2: Using pen&paper prototypes + board field proxies to test and develop.
 
 ## Implementation:
-This project is currently in Phase 2. Work in Progress.
+This project is currently in Phase 3. Work in Progress.
   
 ### Current Screenshots:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot010_WargRider-SeaEagles.png?raw=true "Screenshot of Card Conjurer prototypes with tAO resource symbols")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot010_WargRider-SeaEagles.png?raw=true "Screenshot of Card Conjurer high level prototypes with tAO resource symbols")
+
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot011_blank-cards_territory-unit.png?raw=true "Screenshot of blank pen&paper prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot009_PUEROWBAG.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
 
@@ -56,6 +63,7 @@ Phase 2.4: Create some cards with different card types. / Add images.
 
   
 ### Developer Notes:
+* 2025-08-30: paint.net https://www.getpaint.net/
 * 2025-08-28: Card Conjurer https://cardconjurer.com/
 
 * 2025-08-26 #2: I replaced the Azorius watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom A watermark + Opacity 102.

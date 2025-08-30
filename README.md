@@ -2,7 +2,7 @@
 Composing the prototype of a unique card + board game hybrid. Full name to be revealed at a later stage. More details will follow.
 
 * Project type: Creating a "cardboard" game (Pet Project).
-* Project prio: Main Project (highest priority).
+* Project prio: Main Project (high priority).
 
 ## Project goals:
 
@@ -15,7 +15,7 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 
 #### * ~~Phase 2: Designing the first pack of card prototypes.~~ =DONE!
 
-* ~~Phase 2.1: Decide on a tool to create prototypes. I will use the MSE (MagicSetEditor) for now (link in dev note 2025-08-23 at bottom of this Readme).~~ =DONE! <-EDIT 2025-08-28: Using Card Conjurer for high level prototypes.
+* ~~Phase 2.1: Decide on a tool to create prototypes. I will use the MSE (MagicSetEditor) for now (link in dev note 2025-08-23 at bottom of this Readme). =DONE! <-EDIT 2025-08-28: Using Card Conjurer for high level prototypes.~~
 * ~~Phase 2.2: Create a first draft of the Start Territory cards for each color.~~ =DONE!
 * ~~Phase 2.3: Create and add custom resource symbols.~~ =DONE!
 * ~~Phase 2.4: Create some cards with different card types. / Add images. I used Card Conjurer (https://cardconjurer.com/) for the first high level Unit card prototypes.~~ =DONE!

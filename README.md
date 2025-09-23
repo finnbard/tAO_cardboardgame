@@ -29,7 +29,7 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 3. Work in Progress.
   
 ### Current Screenshots:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot012_early-alpha_Artha-WargRider.png?raw=true "Screenshot of filled pen&paper prototypes")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot013_early-alpha_Khego-WargRider.png?raw=true "Screenshot of filled pen&paper prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot010_WargRider-SeaEagles.png?raw=true "Screenshot of Card Conjurer high level prototypes with tAO resource symbols")
 

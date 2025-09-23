@@ -55,7 +55,7 @@ Phase 2.4: Create some cards with different card types. / Add images.
 * Create "PUEROW BAG" as first item card.
 * Create "Turgho" hero.
 * Create "Khego" hero.
-* Create "Artha" hero.
+* Create "Artha" heroess.
 * Create some basic units to test and see how stats and abbilities can work.
 * Think about how the game starts, develops and ends.
 * ...

@@ -1,0 +1,4 @@
+Create 3d watermarks:
+
+1. Stylize -> Relief: Angle == 45,00
+2. Object -> Drop Shadow: ShadowRadius == 0,0; Distance == 5,0; Angle == -135,00; Opacity == 1,00; R/G/B == 0/0/0

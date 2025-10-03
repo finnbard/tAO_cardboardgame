@@ -29,13 +29,15 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 3. Work in Progress.
   
 ### Current Screenshots:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot013_early-alpha_Khego-WargRider.png?raw=true "Screenshot of filled pen&paper prototypes")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot014_early-alpha_001-002.png?raw=true "Screenshot of filled pen&paper prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot010_WargRider-SeaEagles.png?raw=true "Screenshot of Card Conjurer high level prototypes with tAO resource symbols")
 
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot011_blank-cards_territory-unit.png?raw=true "Screenshot of blank pen&paper prototypes")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot013_early-alpha_Khego-WargRider.png?raw=true "Screenshot of filled pen&paper prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot009_PUEROWBAG.png?raw=true "MSE Print Preview Screenshot of card prototypes with tAO resource symbols")
+
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot011_blank-cards_territory-unit.png?raw=true "Screenshot of blank pen&paper prototypes")
 
 #### TODO:  
 

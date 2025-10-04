@@ -30,9 +30,9 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 3. Work in Progress.
   
 ### Current Screenshots:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot018_early-alpha_001-002.png?raw=true "Screenshot of early-alpha prototypes")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot018_early-alpha_005-006.png?raw=true "Screenshot of early-alpha prototypes")
 
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot017_early-alpha_001-002.png?raw=true "Screenshot of early-alpha prototypes")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot017_early-alpha_003-004.png?raw=true "Screenshot of early-alpha prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot016_early-alpha_001-002.png?raw=true "Screenshot of early-alpha prototypes")
 

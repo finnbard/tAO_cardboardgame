@@ -22,14 +22,19 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 
 #### * Phase 3: Prototyping, testing and development phase
 
-* Phase 3.1: Switching tools to paint.net (https://www.getpaint.net/) + MS Word for blank card prototypes (units & territories), printing them and using pen and paper to fill.
-* Phase 3.2: Using pen&paper prototypes + board field proxies to test and develop.
+* ~~Phase 3.1: Switching tools to paint.net (https://www.getpaint.net/) + MS Word for blank card prototypes (units & territories), printing them and using pen and paper to fill.~~ =DONE!
+* ~~Phase 3.2: Using pen&paper prototypes + board field proxies to test and develop.~~ =DONE!
+* Phase 3.3: Using early-alpha prototypes + board field proxies to test and develop.
 
 ## Implementation:
 This project is currently in Phase 3. Work in Progress.
   
 ### Current Screenshots:
-![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot016_early-alpha_001-002.png?raw=true "Screenshot of filled pen&paper prototypes")
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot018_early-alpha_001-002.png?raw=true "Screenshot of early-alpha prototypes")
+
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot017_early-alpha_001-002.png?raw=true "Screenshot of early-alpha prototypes")
+
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot016_early-alpha_001-002.png?raw=true "Screenshot of early-alpha prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot015_early-alpha_001-002.png?raw=true "Screenshot of filled pen&paper prototypes")
 
@@ -54,16 +59,25 @@ This project is currently in Phase 3. Work in Progress.
 * ~~2.3.8: A symbol + watermark~~ =DONE!
 * ~~2.3.9: G symbol + watermark~~ =DONE!
 
-Phase 2.4: Create some cards with different card types. / Add images.
+~~Phase 2.4: Create some cards with different card types. / Add images.~~ =DONE!
 * ~~Create first Unit: "Warg Rider"~~ =DONE!
 * ~~Create Unit: "Sea Eagles"~~ =DONE!
-* Create "Finnbard, the Blue" as first hero card.
-* Create "PUEROW BAG" as first item card.
+* ~~Create some basic units to test and see how stats and abbilities can work.~~ =DONE!
+* ~~Think about how the game starts, develops and ends.~~ =DONE!
+
+Phase 3.3: Using early-alpha prototypes + board field and token proxies to test and develop.
+Notes for 3rd faction - green/Elves:
+* Base Territory: Mother Tree [GG]
+* Natural Territory - Woodland: Forest [G] -Develop (GG1)-> Developed T - Gardens [GG]
+* Ranged Base Unit - Elf Archer: Scout/Ranger/Warden (GG) 2/1 Speed 1.
+
+general todos:
+* Create "Helmar, bear-kin fieldsmith" hero.
 * Create "Turgho" hero.
 * Create "Khego" hero.
 * Create "Artha" heroess.
-* Create some basic units to test and see how stats and abbilities can work.
-* Think about how the game starts, develops and ends.
+* Create "Finnbard, the Blue" hero.
+* Create "PUEROW BAG" as first item card.
 * ...
 * TBD
 

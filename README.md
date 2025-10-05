@@ -27,9 +27,11 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 * Phase 3.3: Using early-alpha prototypes + board field proxies to test and develop.
 
 ## Implementation:
-This project is currently in Phase 3. Work in Progress.
+This project is currently in Phase 3.3 Work in Progress.
   
 ### Current Screenshots:
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot019_early-alpha_007-008.png?raw=true "Screenshot of early-alpha prototypes")
+
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot018_early-alpha_005-006.png?raw=true "Screenshot of early-alpha prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot017_early-alpha_003-004.png?raw=true "Screenshot of early-alpha prototypes")
@@ -67,8 +69,8 @@ This project is currently in Phase 3. Work in Progress.
 
 Phase 3.3: Using early-alpha prototypes + board field and token proxies to test and develop.
 Notes for 3rd faction - green/Elves:
-* Base Territory: Mother Tree [GG]
-* Natural Territory - Woodland: Forest [G] -Develop (GG1)-> Developed T - Gardens [GG]
+* ~~Base Territory: Mother Tree [GG]~~ =DONE!
+* ~~Natural Territory - Woodland: Forest [G] -Develop (GG1)-> Developed T - Grove [GG]~~ =DONE!
 * Ranged Base Unit - Elf Archer: Scout/Ranger/Warden (GG) 2/1 Speed 1.
 
 general todos:

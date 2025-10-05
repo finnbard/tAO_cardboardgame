@@ -30,6 +30,8 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 3.3 Work in Progress.
   
 ### Current Screenshots:
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot020_early-alpha_009-010.png?raw=true "Screenshot of early-alpha prototypes")
+
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot019_early-alpha_007-008.png?raw=true "Screenshot of early-alpha prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/Phase2/screenshots/tAO_cards_Screenshot018_early-alpha_005-006.png?raw=true "Screenshot of early-alpha prototypes")
@@ -71,9 +73,10 @@ Phase 3.3: Using early-alpha prototypes + board field and token proxies to test 
 Notes for 3rd faction - green/Elves:
 * ~~Base Territory: Mother Tree [GG]~~ =DONE!
 * ~~Natural Territory - Woodland: Forest [G] -Develop (GG1)-> Developed T - Grove [GG]~~ =DONE!
-* Ranged Base Unit - Elf Archer: Scout/Ranger/Warden (GG) 2/1 Speed 1.
+* ~~Ranged Base Unit - Elf Archer: Huntress (GG) 2/1 Speed 1.~~ =DONE!
 
 general todos:
+* [009 Huntress] Upgrades: Longbowᴓman/Ranger/Scout/Warden
 * Create "Helmar, bear-kin fieldsmith" hero.
 * Create "Turgho" hero.
 * Create "Khego" hero.
@@ -85,6 +88,8 @@ general todos:
 
   
 ### Developer Notes:
+* 2025-10-05: early-alpha Command card watermark layer Opacity == 36.
+
 * 2025-08-30: paint.net https://www.getpaint.net/
 * 2025-08-28: Card Conjurer https://cardconjurer.com/
 * 2025-08-26 #2: I replaced the Azorius watermark in "[...]\magic-m15-extra-udelude.mse-style" with my custom A watermark + Opacity 102.

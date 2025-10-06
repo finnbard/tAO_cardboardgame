@@ -56,7 +56,7 @@ This project is currently in Phase 3.3 Work in Progress.
 
 #### TODO:  
 
-~~Phase 2.3: Create and add custom resource symbols:~~ =DONE!
+#####~~Phase 2.3: Create and add custom resource symbols:~~ =DONE!
 * ~~2.3.1: P symbol + watermark~~ =DONE!
 * ~~2.3.2: U symbol + watermark~~ =DONE!
 * ~~2.3.3: E symbol + watermark~~ =DONE!
@@ -67,18 +67,18 @@ This project is currently in Phase 3.3 Work in Progress.
 * ~~2.3.8: A symbol + watermark~~ =DONE!
 * ~~2.3.9: G symbol + watermark~~ =DONE!
 
-~~Phase 2.4: Create some cards with different card types. / Add images.~~ =DONE!
+#####~~Phase 2.4: Create some cards with different card types. / Add images.~~ =DONE!
 * ~~Create first Unit: "Warg Rider"~~ =DONE!
 * ~~Create Unit: "Sea Eagles"~~ =DONE!
 * ~~Create some basic units to test and see how stats and abbilities can work.~~ =DONE!
 * ~~Think about how the game starts, develops and ends.~~ =DONE!
 
-Phase 3.3: Using early-alpha prototypes + board field and token proxies to test and develop.
-~~Notes for 3rd faction - green/Elves:~~ =DONE!
+#####Phase 3.3: Using early-alpha prototypes + board field and token proxies to test and develop.
+######~~Notes for 3rd faction - green/Elves:~~ =DONE!
 * ~~Base Territory: Mother Tree [GG]~~ =DONE!
 * ~~Natural Territory - Woodland: Forest [G] -Develop (GG1)-> Developed T - Grove [GG]~~ =DONE!
 * ~~Ranged Base Unit - Elf Archer: Huntress (GG) 2/1 Speed 1.~~ =DONE!
-Notes for 4th faction - black/Necro:
+######Notes for 4th faction - black/Necro:
 * ~~Element: Dark/Death + Resource: Bones. Add res symbol(s).~~ =DONE!
 * Base Territory: Barrow [BB]
 * Natural Territory: Bog [B] -Develop-> Developed T - Dump [BB]

@@ -81,11 +81,15 @@ This project is currently in Phase 3.3 Work in Progress.
 ###### * Notes for 4th faction - black/Necro:
 * ~~Element: Dark/Death + Resource: Bones. Add res symbol(s).~~ =DONE!
 * Base Territory: Barrow [BB]
-* Natural Territory: Bog [B] -Develop-> Developed T - Dump [BB]
+* Natural Territory - Wetland: Bog [B] -Develop-> Developed T - Dump{/Boneyard} [BB]
 * Base Unit - Skeleton Warrior: ??? (B) 1/1 Speed 1.
 * Base Action Command: Excavation/Recruitment? -> +x*Res[B]/+Skeletons.
 
-general todos:
+###### Notes for Air/Fabrics/P/Purple/AirNomads faction:
+* Base Territory: The Great Canyon [PP]
+* Natural Territory - Lowland: Steep Downs{/Valley} [P] -Develop-> Developed T - {Weaving} Mill [PP]
+
+##### General todos:
 * [009 Huntress] Upgrades: Longbowᴓman/Ranger/Scout/Warden
 * Create "Helmar, bear-kin fieldsmith" hero.
 * Create "Turgho" hero.

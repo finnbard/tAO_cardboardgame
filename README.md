@@ -74,10 +74,16 @@ This project is currently in Phase 3.3 Work in Progress.
 * ~~Think about how the game starts, develops and ends.~~ =DONE!
 
 Phase 3.3: Using early-alpha prototypes + board field and token proxies to test and develop.
-Notes for 3rd faction - green/Elves:
+~~Notes for 3rd faction - green/Elves:~~ =DONE!
 * ~~Base Territory: Mother Tree [GG]~~ =DONE!
 * ~~Natural Territory - Woodland: Forest [G] -Develop (GG1)-> Developed T - Grove [GG]~~ =DONE!
 * ~~Ranged Base Unit - Elf Archer: Huntress (GG) 2/1 Speed 1.~~ =DONE!
+Notes for 4th faction - black/Necro:
+* ~~Element: Dark/Death + Resource: Bones. Add res symbol(s).~~ =DONE!
+* Base Territory: Barrow [BB]
+* Natural Territory: Bog [B] -Develop-> Developed T - Dump [BB]
+* Base Unit - Skeleton Warrior: ??? (B) 1/1 Speed 1.
+* Base Action Command: Excavation/Recruitment? -> +x*Res[B]/+Skeletons.
 
 general todos:
 * [009 Huntress] Upgrades: Longbowᴓman/Ranger/Scout/Warden

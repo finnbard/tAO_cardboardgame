@@ -102,6 +102,7 @@ This project is currently in Phase 3.3 Work in Progress.
 
   
 ### Developer Notes:
+* 2025-10-18: r_res_color painted (paint bucket) with tolerance == 36.
 * 2025-10-05: early-alpha Command card watermark layer Opacity == 36.
 
 * 2025-08-30: paint.net https://www.getpaint.net/

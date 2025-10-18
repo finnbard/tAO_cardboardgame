@@ -30,6 +30,10 @@ Composing the prototype of a unique card + board game hybrid. Full name to be re
 This project is currently in Phase 3.3 Work in Progress.
   
 ### Current Screenshots:
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/AO_early-alpha/card-files/AO_early-alpha_symbols-res/all_res_gCenter_bBack.png?raw=true "Screenshot of early-alpha resource symbols")
+
+![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/AO_early-alpha/card-files/AO_early-alpha_symbols-res/all_res_gCenter_wBack.png?raw=true "Screenshot of early-alpha resource symbols")
+
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/AO_early-alpha/screenshots/tAO_cards_Screenshot022_early-alpha_012-014.png?raw=true "Screenshot of early-alpha prototypes")
 
 ![alt text](https://github.com/finnbard/tAO_cardboardgame/blob/main/AO_early-alpha/screenshots/tAO_cards_Screenshot021_early-alpha_011-013.png?raw=true "Screenshot of early-alpha prototypes")
@@ -102,6 +106,7 @@ This project is currently in Phase 3.3 Work in Progress.
 
   
 ### Developer Notes:
+* 2025-10-18: a_res_color painted (paint bucket) with tolerance == 42.
 * 2025-10-18: r_res_color painted (paint bucket) with tolerance == 36.
 * 2025-10-05: early-alpha Command card watermark layer Opacity == 36.
 
